@@ -1,0 +1,15 @@
+/* Profile Section */
+.profile {
+  text-align: center;
+  padding: 50px 20px;
+  background: #fff;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #732B90;
+  margin-bottom: 20px;
+}
